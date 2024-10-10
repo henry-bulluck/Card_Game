@@ -12,7 +12,8 @@ Card games planned to be included so far:
   * Texas Hold 'em
   * etc
 * Blackjack
-probaly some others too but those are the initial plans
+
+Probaly some others too but those are the initial plans.
 
 Project will be programmed in Java because I miss using the language. I spent almost half of college as an assistant teacher for a class taught in the language, and haven't touched it since. Despite the sometimes cumbersom nature it is my favorite programming language. Maybe followed by Haskell, but i took that for a semester and almost immediatly forgot it. Still find functional programming sick. I need to get back into that as well.
 
